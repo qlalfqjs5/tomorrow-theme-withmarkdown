@@ -6,4 +6,4 @@ Put it in `~/Library/Application Support/Sublime Text 2/Packages/Color Scheme - 
 
 ## To Do
 
-- Give this treatment to the rest of the "Tomorrow" textmate theme family
+- None at the moment.
